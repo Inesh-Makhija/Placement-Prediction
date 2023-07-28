@@ -19,22 +19,30 @@ Python & Jupyter Notebook Libraries used:
 
 # III. Materials and Methods
 ## Data Preprocessing
- ![image](https://github.com/Inesh-Makhija/Placement-Prediction/assets/131392146/0f4f19f6-9d3b-4832-b12b-9d000920cc86)
+ ![image](https://github.com/Inesh-Makhija/Placement-Prediction/assets/131392146/7ccaa173-5a19-4a1c-97a2-8d63cea965c5)
+
                                                                                                                                                                       
  ## Data Visualization (Exploration)
-![visual1](https://github.com/Inesh-Makhija/Placement-Prediction/assets/131392146/8f777e97-6ca6-4b94-92f2-51f5b41aca0b)                                            
-![visual2](https://github.com/Inesh-Makhija/Placement-Prediction/assets/131392146/bc87c87f-1734-4f7e-bb0c-7e40dc1b5ea9)
-![visual3](https://github.com/Inesh-Makhija/Placement-Prediction/assets/131392146/c41568e3-3dcd-49cc-b0cf-7de22d90ca5a)
-![visual4](https://github.com/Inesh-Makhija/Placement-Prediction/assets/131392146/27ba43c3-11a9-4c29-a1b0-ac159a856095)
+![visual1](https://github.com/Inesh-Makhija/Placement-Prediction/assets/131392146/f72fffa9-c2f0-4992-b673-b46ee6965179)
+                                         
+![visual2](https://github.com/Inesh-Makhija/Placement-Prediction/assets/131392146/e2a579f7-2639-4dfd-8514-8824d8de16a5)
+
+![visual3](https://github.com/Inesh-Makhija/Placement-Prediction/assets/131392146/93f0c071-a031-42f6-9ec6-495b23c8cb5f)
+
+![visual4](https://github.com/Inesh-Makhija/Placement-Prediction/assets/131392146/56d4154c-5fef-4cad-aa0b-bc7f87b40be8)
+
 
                                                                                                                                                                             
 # Model in Practice!
-![output1](https://github.com/Inesh-Makhija/Placement-Prediction/assets/131392146/31e4313e-892b-4c28-8833-2cc091d0f9ed)
+![output1](https://github.com/Inesh-Makhija/Placement-Prediction/assets/131392146/916c151f-8610-4c65-85dd-4955ce745741)
+
 .
-![output2](https://github.com/Inesh-Makhija/Placement-Prediction/assets/131392146/9bb2a12c-5fba-45c4-b4a6-fb235c8136cd)
+![output2](https://github.com/Inesh-Makhija/Placement-Prediction/assets/131392146/cee0c16d-958f-45e0-9f0b-c65793fb3edb)
+
                                                                                                                                                                          
 # Future Prospect!
-![web_prototype](https://github.com/Inesh-Makhija/Placement-Prediction/assets/131392146/e2e55dd0-d1b4-42a7-9891-4da07f574fbb)
+![web_prototype](https://github.com/Inesh-Makhija/Placement-Prediction/assets/131392146/5b57f565-ed3e-4c38-8a39-e841c65921d6)
+
 
 # Conclusion!
 The models offer educational institutions and students a powerful tool to make informed decisions about career planning and improve job placement outcomes.
