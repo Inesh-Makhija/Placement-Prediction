@@ -1,1 +1,4 @@
 # Placement-Prediction
+
+#Introduction
+The project aims to leverage a student placement dataset to develop a prediction model using machine learning techniques. By incorporating inputs such as student grade history, educational background, field information, etc., the model will forecast on-campus placement success rate and salary potential along with much more insight. The primary objective is to provide valuable insights that can guide students in understanding the key factors influencing their future career prospects. The project implementation will focus on creating an interface that allows students to input their academic and field-related details. This project holds significant potential to empower students with data-driven insights and assist them in identifying areas they may need to focus on for achieving their career goals.
