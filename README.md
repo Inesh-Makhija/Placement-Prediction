@@ -15,4 +15,33 @@ Python & Jupyter Notebook Libraries used:
 •	Matplotlib: Visualization library for charts and plots.                                                                                                              
 •	Seaborn: Statistical data visualization library.  
 
-III. Materials and Methods
+# III. Materials and Methods
+## Data Preprocessing
+ ![image](https://github.com/Inesh-Makhija/Placement-Prediction/assets/131392146/0f4f19f6-9d3b-4832-b12b-9d000920cc86)
+
+ ## Data Visualization (Exploration)
+![visual1](https://github.com/Inesh-Makhija/Placement-Prediction/assets/131392146/8f777e97-6ca6-4b94-92f2-51f5b41aca0b)                                            
+![visual2](https://github.com/Inesh-Makhija/Placement-Prediction/assets/131392146/bc87c87f-1734-4f7e-bb0c-7e40dc1b5ea9)
+![visual3](https://github.com/Inesh-Makhija/Placement-Prediction/assets/131392146/c41568e3-3dcd-49cc-b0cf-7de22d90ca5a)
+![visual4](https://github.com/Inesh-Makhija/Placement-Prediction/assets/131392146/27ba43c3-11a9-4c29-a1b0-ac159a856095)
+
+# Model in Practice!
+![output1](https://github.com/Inesh-Makhija/Placement-Prediction/assets/131392146/31e4313e-892b-4c28-8833-2cc091d0f9ed)
+.
+![output2](https://github.com/Inesh-Makhija/Placement-Prediction/assets/131392146/9bb2a12c-5fba-45c4-b4a6-fb235c8136cd)
+
+# Future Prospect!
+![web_prototype](https://github.com/Inesh-Makhija/Placement-Prediction/assets/131392146/e2e55dd0-d1b4-42a7-9891-4da07f574fbb)
+
+# Conclusion!
+The models offer educational institutions and students a powerful tool to make informed decisions about career planning and improve job placement outcomes.
+Accurate predictions and insights provided by the models can positively impact students' educational and career trajectories.
+The project's outcomes can facilitate better planning and success in the job market, enhancing students' overall career prospects.
+
+
+
+
+
+
+
+
